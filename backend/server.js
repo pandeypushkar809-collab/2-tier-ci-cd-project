@@ -1,13 +1,16 @@
-{
-  "name": "backend",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongoose": "^8.0.0"
-  }
-}
+const express = require("express");
+const cors = require("cors");
+
+const app = express();
+
+app.use(cors());
+
+app.get("/", (req, res) => {
+    res.json({
+        message: "Backend Running Successfully"
+    });
+});
+
+app.listen(5000, () => {
+    console.log("Server running on port 5000");
+});
