@@ -183,13 +183,20 @@ Pushkar Pandey
 
 # 📸 Screenshots
 
-<img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/c2ff4d7c-9f90-480c-9219-fa3fc369a426" />
+ ## Workflow Diagram
+ ![Workflow](workflow.png)
 
-<img width="455" height="245" alt="backend-running" src="https://github.com/user-attachments/assets/9d579fbe-0caf-44be-9018-1bb74d756f46" />
+Frontend Running
+![Frontend](frontend-running.png)
 
-<img width="523" height="138" alt="built" src="https://github.com/user-attachments/assets/fa2fdca1-b5fa-4ee0-8465-bb9304c34ebb" />
+ Backend Running
+![Backend](backend-running.png)
 
-<img width="605" height="352" alt="frontend-running" src="https://github.com/user-attachments/assets/2cfbb915-aa88-4433-a76e-4e4b02671328" />
+ Docker Build Output
+![Built](built.png)
+
+
+
 
 
 
