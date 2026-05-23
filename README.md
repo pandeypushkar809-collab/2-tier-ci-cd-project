@@ -178,33 +178,39 @@ http://<EC2-PUBLIC-IP>:5000
 ✅ Frontend Running
 ✅ Workflow Diagram
 
-
 Pushkar Pandey
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
- ## Workflow Diagram
- ![Workflow](Screenshots/workflow.png)
-
-Frontend Running
-![Frontend](Screenshots/frontend-running.png)
-
- Backend Running
-![Backend](Screenshots/backend-running.png)
-
- Docker Build Output
-![Built](Screenshots/built.png)
-
-
-
-
-
-
-
-
-
-
+## 🔹 Backend Running
+![Backend Running](Screenshots/backend-running.png)
 
 ---
+
+## 🔹 Docker Image Build
+![Docker Build](Screenshots/built.png)
+
+---
+
+## 🔹 Frontend Running
+![Frontend Running](Screenshots/frontend-running.png)
+
+---
+
+## 🔹 GitHub Actions Workflow
+![Workflow](Screenshots/workflow.png)
+
+Next K8S 
+
+
+
+
+
+
+
+
+
+
+
 
 
