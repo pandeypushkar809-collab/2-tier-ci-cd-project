@@ -183,37 +183,36 @@ Pushkar Pandey
 
 # 📸 Screenshots
 
----
-
-# 🔄 GitHub Actions Workflow
-
-![Workflow](workflow.png)
-
-<img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/665524f1-07a1-44b4-b1c7-1bfce5117c3b" />
-
----
-
-# 🌐 Frontend Running
-
-![Frontend](Frontend-running.png)
-
-<img width="605" height="352" alt="frontend-running" src="https://github.com/user-attachments/assets/4fd9f1ad-b4e8-49ab-a99b-d380b20c72e0" />
-
----
-
-# ⚙️ Backend Running
+ Backend Running
 
 ![Backend](backend-running.png)
 
-<img width="455" height="245" alt="backend-running" src="https://github.com/user-attachments/assets/d1908e95-8370-432b-86f5-cc0766f91e4b" />
+<img width="455" height="245" alt="backend-running" src="https://github.com/user-attachments/assets/6c60194e-0303-4fa7-9d36-4a8453085f46" />
 
----
-
-# 🏗️ Docker Build Output
+Docker Build Output
 
 ![Built](built.png)
 
-<img width="523" height="138" alt="built" src="https://github.com/user-attachments/assets/88c6fd69-21b9-49e4-9f31-fdb632123447" />
+
+<img width="523" height="138" alt="built" src="https://github.com/user-attachments/assets/4a8383d3-d92e-439b-b52c-e7077fc24092" />
+
+Frontend Running
+
+![Frontend](Frontend-running.png)
+
+<img width="605" height="352" alt="frontend-running" src="https://github.com/user-attachments/assets/899155f9-6434-46a0-b17e-5366d2cc7336" />
+
+
+GitHub Actions Workflow
+
+![Workflow](workflow.png)
+
+
+<img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/f1a9db07-7b8b-41af-9fcf-b0a28089e446" />
+
+
+
+
 
 ---
 
