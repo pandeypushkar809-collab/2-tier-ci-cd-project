@@ -66,7 +66,7 @@ This deployment includes:
 │   └── public/
 │
 ├── Screenshot/
-│   ├── architecture.png
+│ 
 │   ├── backend-running.png
 │   ├── frontend-running.png
 │   ├── workflow.png
@@ -183,32 +183,16 @@ Pushkar Pandey
 
 # 📸 Screenshots
 
- Backend Running
+<img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/c2ff4d7c-9f90-480c-9219-fa3fc369a426" />
 
-![Backend](backend-running.png)
+<img width="455" height="245" alt="backend-running" src="https://github.com/user-attachments/assets/9d579fbe-0caf-44be-9018-1bb74d756f46" />
 
-<img width="455" height="245" alt="backend-running" src="https://github.com/user-attachments/assets/6c60194e-0303-4fa7-9d36-4a8453085f46" />
+<img width="523" height="138" alt="built" src="https://github.com/user-attachments/assets/fa2fdca1-b5fa-4ee0-8465-bb9304c34ebb" />
 
-Docker Build Output
-
-![Built](built.png)
+<img width="605" height="352" alt="frontend-running" src="https://github.com/user-attachments/assets/2cfbb915-aa88-4433-a76e-4e4b02671328" />
 
 
-<img width="523" height="138" alt="built" src="https://github.com/user-attachments/assets/4a8383d3-d92e-439b-b52c-e7077fc24092" />
 
-Frontend Running
-
-![Frontend](Frontend-running.png)
-
-<img width="605" height="352" alt="frontend-running" src="https://github.com/user-attachments/assets/899155f9-6434-46a0-b17e-5366d2cc7336" />
-
-
-GitHub Actions Workflow
-
-![Workflow](workflow.png)
-
-
-<img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/f1a9db07-7b8b-41af-9fcf-b0a28089e446" />
 
 
 
