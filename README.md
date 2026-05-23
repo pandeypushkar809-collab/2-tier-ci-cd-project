@@ -184,16 +184,16 @@ Pushkar Pandey
 # 📸 Screenshots
 
  ## Workflow Diagram
- ![Workflow](ScreenScreenshot/workflow.png)
+ ![Workflow](Screenshots/workflow.png)
 
 Frontend Running
-![Frontend](Screenshot/frontend-running.png)
+![Frontend](Screenshots/frontend-running.png)
 
  Backend Running
-![Backend](Screensgot/backend-running.png)
+![Backend](Screenshots/backend-running.png)
 
  Docker Build Output
-![Built](Screenshot/built.png)
+![Built](Screenshots/built.png)
 
 
 
