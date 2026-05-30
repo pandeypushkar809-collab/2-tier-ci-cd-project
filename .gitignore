@@ -32,3 +32,38 @@ temp/
 
 # Git
 .git 
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+PS C:\Users\Pushkar Pandey\2-tier-app> git rm -r --cached terraform
+rm 'terraform/.terraform.lock.hcl'
+rm 'terraform/.terraform/modules/modules.json'
+rm 'terraform/.terraform/modules/vpc.vpc'
+rm 'terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.46.0/windows_amd64/LICENSE.txt'
+rm 'terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.46.0/windows_amd64/terraform-provider-aws_v6.46.0_x5.exe'
+rm 'terraform/main.tf'
+rm 'terraform/modules/ec2/k8s/backend-deployment.yaml'
+rm 'terraform/modules/ec2/k8s/backend-service.yaml'
+rm 'terraform/modules/ec2/k8s/front-service.yaml'
+rm 'terraform/modules/ec2/k8s/frontend-deployment.yaml'
+rm 'terraform/modules/ec2/main.tf'
+rm 'terraform/modules/ec2/output.tf'
+rm 'terraform/modules/ec2/variables.tf'
+rm 'terraform/modules/security-group/main.tf'
+rm 'terraform/modules/security-group/outputs.tf'
+rm 'terraform/modules/security-group/variables.tf'
+rm 'terraform/modules/vpc/main.tf'
+rm 'terraform/modules/vpc/outputs.tf'
+rm 'terraform/modules/vpc/variable.tf'
+rm 'terraform/provider.tf'
+rm 'terraform/terraform.tfstate'
+rm 'terraform/terraform.tfstate.backup'
+rm 'terraform/terraform.tfvars'
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
