@@ -164,6 +164,11 @@ DevOps | AWS | Docker | Kubernetes | Terraform
 ## 11. Workflow
 <img width="1338" height="551" alt="workflow" src="https://github.com/user-attachments/assets/5d96c988-822d-4fbe-9673-f4d6a55fcbbd" />
 
+Upcoming Enhancements
+⬜ ConfigMap for externalized application configuration
+⬜ Kubernetes Secrets for sensitive data management
+
+
 
 
 
