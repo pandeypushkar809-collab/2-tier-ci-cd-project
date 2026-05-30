@@ -200,17 +200,7 @@ Pushkar Pandey
 ## 🔹 GitHub Actions Workflow
 ![Workflow](Screenshots/workflow.png)
 
-Next K8S 
-
-
-
-
-
-
-
-
-
-
+Next K8S
 
 
 
