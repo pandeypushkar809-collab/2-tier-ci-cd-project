@@ -1,20 +1,32 @@
 apiVersion: apps/v1
 kind: Deployment
+
 metadata:
   name: backend
+
 spec:
   replicas: 2
+
   selector:
     matchLabels:
       app: backend
+
   template:
     metadata:
       labels:
         app: backend
+
     spec:
       containers:
       - name: backend
         image: 965932217868.dkr.ecr.ap-south-1.amazonaws.com/myapp:backend
+
+        env:
+        - name: PORT
+          valueFrom:
+            configMapKeyRef:
+              name: backend-config
+              key: PORT
+
         ports:
         - containerPort: 5000
-            
